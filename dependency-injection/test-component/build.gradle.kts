@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.lunabee.template.dependencyinjection.test"
+    namespace = "studio.lunabee.immortalgaming.dependencyinjection.test"
 }
 
 dependencies {

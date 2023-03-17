@@ -6,7 +6,7 @@ plugins {
 apply(from = "../Commons_Android/gradle/pr-code-analysis-app.gradle")
 
 android {
-    namespace = "com.lunabee.template"
+    namespace = "studio.lunabee.immortalgaming"
 
     compileSdk = AndroidConfig.COMPILE_SDK
     buildToolsVersion = AndroidConfig.BUILD_TOOLS_VERSION

@@ -18,7 +18,7 @@ refreshVersions {
     }
 }
 
-rootProject.name = "Template"
+rootProject.name = "Immortal_Game"
 
 include(":Commons_Android")
 project(":Commons_Android").projectDir = File("Commons_Android/gradle")

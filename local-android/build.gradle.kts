@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.lunabee.template.storage"
+    namespace = "studio.lunabee.immortalgaming.storage"
 }
 
 dependencies {
